@@ -1,0 +1,17 @@
+HTTrack3.49-2 launched on Mon, 26 Feb 2024 12:32:16 at https://elexis.info/
+(winhttrack https://elexis.info/ -O "/home/debenath/websites/Elexis.info" -%v )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+12:34:39	Error: 	"Not Found " (404) at link https://elexis.info/support.html (from https://elexis.info/)
+12:34:44	Error: 	"Not Found " (404) at link https://elexis.info/sponsoring/de_support.html (from https://elexis.info/sponsoring/)
+12:34:47	Error: 	"Not Found " (404) at link https://elexis.info/en/support/de_support.html (from https://elexis.info/en/support/)
+12:34:47	Error: 	"Not Found " (404) at link https://elexis.info/fr/sponsoring/"mailto:niklaus.giger@member.fsf.org (from https://elexis.info/fr/sponsoring/)
+12:34:47	Error: 	"Not Found " (404) at link https://elexis.info/it/sponsoring/"mailto:niklaus.giger@member.fsf.org (from https://elexis.info/it/sponsoring/)
+12:34:47	Error: 	"Not Found " (404) at link https://elexis.info/www.elexis-forum.ch (from https://elexis.info/fr/contributors/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 minutes 31 seconds : 50 links scanned, 43 files written (499266 bytes overall) [296231 bytes received at 1961 bytes/sec], 354738 bytes transferred using HTTP compression in 43 files, ratio 36%, 3.1 requests per connection
+(6 errors, 0 warnings, 0 messages)
