@@ -1,0 +1,52 @@
+I"�	<p><strong>Elexis a eu 15 ans le 30 juin 2022</strong>.</p>
+
+<p>En <strong>juin 2022</strong>, <strong>Elexis 3.9.0</strong> est sorti. Comme d’habitude, divers bugs ont été corrigés et des améliorations utiles pour les utilisateurs ont été mises en œuvre. Vous trouverez des détails dans les <a href="https://wiki.elexis.info/Release-Notes-3.9.0">Release notes</a>.</p>
+
+<p>La prochaine version devrait arriver dans le <strong>quatrième trimestre 2022</strong>.</p>
+
+<p>Elexis est un logiciel libre pour un cabinet médical, developpé par le
+médecin généraliste Dr. Gerry Weirich.</p>
+
+<p>Elexis est utilisé dans plus de 260 cabinets médicaux en Suisse
+alémanique. Un manuel a été traduit en français par le docteur Bruno
+Büchel. Le travail de mise à jour de la version français est présenté sous <strong><a href="/sponsoring">développement futur</a></strong>.</p>
+
+<p>Le logiciel (une application du type Eclipse RCP) est écrit en Java et
+fonctionne sans problème sous Linux, MacOSX ou Windows. Une intégration
+avec Libre/OpenOffice existe.</p>
+
+<p>Sous <a href="https://wiki.elexis.info/Installation_Elexis_3.0_OpenSource">Elexis kennenlernen</a> vous trouvez un guide
+(en allemand) pour installer une version démo d’Elexis.</p>
+
+<h2 id="what">Les composants d’Elexis</h2>
+
+<p>Elexis est centré autour le dossier électronique du patient. La
+facturation respecte le Tarmed suisse.</p>
+
+<p>Grace au système des vues adaptables le médecin peut facilement voir:</p>
+<ul>
+  <li>Consulter l’agenda</li>
+  <li>le dossier du patient, p.e. l’anamnèse personelle, les problèmes
+actuels, la médication</li>
+  <li>la consultation actuelle et antérieures</li>
+  <li>remarque pour la facturation</li>
+  <li>le solde du montant dû du patient</li>
+  <li>liens vers les résultats du labo, liste de contrôle (diabète,
+grossesse, etc)</li>
+  <li>impression d’un aperçu du patient</li>
+</ul>
+
+<h2 id="releases">Nouvelles versions</h2>
+<p>Consultez la liste des verions (en allemand) sours <a href="/index.html#releases">Versionen</a></p>
+
+<h2 id="notices">Mérites &amp; license</h2>
+
+<p>Le code source d’Elexis est distribué sous la license <a href="epl-v10.html">Eclipse Public
+License</a>.</p>
+
+<p>Seule la participation génereuse de beaucoup de personnes a permis à
+Elexis de devenir un programme. Une liste (incomplète) des développeurs,
+sponsors, traducteurs, etc (en Allemand) peut être consultée sous:
+<a href="/contributors">Merci à</a>.</p>
+
+:ET

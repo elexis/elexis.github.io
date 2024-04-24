@@ -1,0 +1,31 @@
+title:
+  en: Multilingual Experiment
+  de: Mehrsprachiges Experiment
+  fr: Experimente multilinguel
+  it: Esperimento Multilingue
+
+languages:
+  de:
+    value: de 
+    slug: de 
+  en:
+    value: en 
+    slug: en
+  fr:
+    value: fr
+    slug: fr
+  it:
+    value: it 
+    slug: it
+
+back:
+  de: Zurück
+  en: Back to the Top
+  fr: En retour
+  it: Torna in Cima
+
+top:
+  de: Nach oben
+  en: Top
+  fr: En haut
+  it: Cima

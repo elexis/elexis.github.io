@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+      <loc>https://ranbureand.github.io/multilingual-experiment/en/story/hello-mars</loc>
+      <lastmod>2021-01-02T01:00:00+01:00</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    <url>
+      <loc>https://ranbureand.github.io/multilingual-experiment/en/story/hello-world</loc>
+      <lastmod>2021-01-01T01:00:00+01:00</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    <url>
+      <loc>https://ranbureand.github.io/multilingual-experiment/en/home.html</loc>
+      <lastmod>2024-04-24T14:58:10+02:00</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.3</priority>
+    </url>
+    <url>
+      <loc>https://ranbureand.github.io/multilingual-experiment/</loc>
+      <lastmod>2024-04-24T14:58:10+02:00</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.3</priority>
+    </url>
+
+</urlset>
