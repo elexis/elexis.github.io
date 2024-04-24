@@ -14,7 +14,6 @@ url: '' # the base hostname & protocol for your site, e.g. http://example.com
 version: '2021-01-01'
 
 default_language: 'de'
-fallback_page: 'stories'
 
 timezone: Europe/Rome
 encoding: utf-8
