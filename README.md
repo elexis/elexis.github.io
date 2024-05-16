@@ -1,1 +1,1 @@
-Starting point for web resources
+Repository containing all files for the multilinguel elexis.info
